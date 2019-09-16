@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Raphael A.",
+  
+  "version": "1.0.0",
+  "browser_action":{
+  "default_title":"Raphael A.",
+  "default_popup":"app.html"
+  },
+  "permission":["activeTab"]
+}
